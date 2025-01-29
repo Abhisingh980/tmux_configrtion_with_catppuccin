@@ -92,10 +92,10 @@ This guide will walk you through the process of setting up Tmux with a minimalis
 ## Screenshots
 
 ### Final Tmux Setup:
-![Tmux Setup Screenshot](Screenshot%202025-01-29%20at%2019.08.57.png)
+![Tmux Setup Screenshot](Images/Screenshot_1.png)
 
 ### Gotop in Action:
-![Gotop Screenshot](Screenshot%202025-01-29%20at%2019.09.22.png)
+![Gotop Screenshot](Images/Screenshot_2.png)
 
 ---
 
@@ -117,5 +117,3 @@ This guide will walk you through the process of setting up Tmux with a minimalis
 ---
 
 Enjoy your minimalistic and functional Tmux + Gotop setup!
-
-
